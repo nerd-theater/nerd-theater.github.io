@@ -95,6 +95,12 @@ div.admonition, div.attention, div.caution, div.danger, div.error, div.hint, div
     text-shadow: none;
 }
 
+.motto {
+    color: white;
+    text-shadow: none;
+    padding-top: 8px;
+}
+
 .navbar .nav > li > a {
     color: white;
     text-shadow: none;
