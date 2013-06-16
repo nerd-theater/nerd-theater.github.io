@@ -96,7 +96,7 @@ div.admonition, div.attention, div.caution, div.danger, div.error, div.hint, div
 .blog-title {
     position: relative;
     top: -6px;
-    margin-left: 10px;
+    left: 10px;
 }
 
 .motto {
