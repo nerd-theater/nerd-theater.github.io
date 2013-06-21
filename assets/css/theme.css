@@ -137,4 +137,10 @@ div.admonition, div.attention, div.caution, div.danger, div.error, div.hint, div
     margin-left: 5px;
 }
 
-/* Test */
+.navbar-inner .container {
+    margin-left: 0;
+}
+
+.navbar .brand {
+    margin-left: 0;
+}
