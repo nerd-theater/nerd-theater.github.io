@@ -14,6 +14,9 @@
 <em>Next mystery: how to drive home with two shattered testicles?</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='an-indecent-indecency.html'>An Indecent Indecency</a></li>
+</li>
 <hr />
 
 <div class='comments'>

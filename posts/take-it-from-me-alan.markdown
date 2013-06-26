@@ -14,6 +14,9 @@
 <em>She was totally into it, but the rest of the people in line made her self-conscious.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='adamantium-heart-no-more.html'>Adamantium Heart No More</a></li>
+</li>
 <hr />
 
 <div class='comments'>

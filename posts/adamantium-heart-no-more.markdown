@@ -14,6 +14,10 @@
 <em>Don't do it, Alan!  Who will do karaoke at the Nerd Theater Christmas party?</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='where-the-watermelons-grow.html'>Where the Watermelons Grow</a></li>
+<li>&bull; <a href='take-it-from-me-alan.html'>Take It From Me, Alan</a></li>
+</li>
 <hr />
 
 <div class='comments'>

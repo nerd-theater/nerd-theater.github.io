@@ -14,6 +14,10 @@
 <em>Stand back, everyone, I'm going to try Sociology! OK, let me go get a real scientist.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='where-the-watermelons-grow.html'>Where the Watermelons Grow</a></li>
+<li>&bull; <a href='dont-go-in-there.html'>Don't Go (In) There!</a></li>
+</li>
 <hr />
 
 <div class='comments'>

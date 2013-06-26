@@ -14,6 +14,9 @@
 <em>Shit, that drive also had collection of funny cat pix! DAMN YOU, USER X!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='uncrashable.html'>Uncrashable</a></li>
+</li>
 <hr />
 
 <div class='comments'>

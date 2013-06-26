@@ -144,3 +144,7 @@ div.admonition, div.attention, div.caution, div.danger, div.error, div.hint, div
 .navbar .brand {
     margin-left: 0;
 }
+
+.related span {
+    font-weight: bold;
+}

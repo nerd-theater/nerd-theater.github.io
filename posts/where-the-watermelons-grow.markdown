@@ -14,6 +14,11 @@
 <em>Do Black people like yellow?  Wikipedia didn't say...</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='adamantium-heart-no-more.html'>Adamantium Heart No More</a></li>
+<li>&bull; <a href='dont-go-in-there.html'>Don't Go (In) There!</a></li>
+<li>&bull; <a href='soft-science.html'>Soft Science</a></li>
+</li>
 <hr />
 
 <div class='comments'>

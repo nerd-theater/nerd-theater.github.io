@@ -14,6 +14,10 @@
 <em>This is seriously the last time I believe a friend who says they have naked pictures of Princess Leia.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='settle-the-score.html'>Settle the Score</a></li>
+<li>&bull; <a href='in-bed.html'>...In Bed</a></li>
+</li>
 <hr />
 
 <div class='comments'>

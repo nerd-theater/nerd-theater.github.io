@@ -14,6 +14,10 @@
 <em>Mike usually likes it in the face.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='not-good-enough-to-sell-part-ii.html'>Not Good Enough To Sell, Part II</a></li>
+<li>&bull; <a href='not-good-enough-to-sell-part-iii.html'>Not Good Enough To Sell Part III</a></li>
+</li>
 <hr />
 
 <div class='comments'>

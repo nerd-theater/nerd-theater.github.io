@@ -14,6 +14,10 @@
 <em>CONSUMER WARNING: BALL-oon (TM) brand balloon animals have been recalled due to a potential choking hazard.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='false-advertising.html'>False Advertising</a></li>
+<li>&bull; <a href='sloppy-joe.html'>Sloppy Joe</a></li>
+</li>
 <hr />
 
 <div class='comments'>

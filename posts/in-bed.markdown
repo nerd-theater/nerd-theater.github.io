@@ -14,6 +14,10 @@
 <em></em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='settle-the-score.html'>Settle the Score</a></li>
+<li>&bull; <a href='catacombs-of-catan.html'>Catacombs of Catan</a></li>
+</li>
 <hr />
 
 <div class='comments'>

@@ -14,6 +14,9 @@
 <em>Goombas are called "Poopies" in India.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='millions-of-peaches.html'>Millions of Peaches</a></li>
+</li>
 <hr />
 
 <div class='comments'>

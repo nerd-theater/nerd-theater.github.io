@@ -14,6 +14,9 @@
 <em>He almost had it that time!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='swing-low-sweet-internet.html'>Swing Low, Sweet Internet</a></li>
+</li>
 <hr />
 
 <div class='comments'>

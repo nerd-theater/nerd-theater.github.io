@@ -14,6 +14,10 @@
 <em>Tatoo this image somewhere on your body</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='not-good-enough-to-sell-part-i.html'>Not Good Enough To Sell, Part I</a></li>
+<li>&bull; <a href='not-good-enough-to-sell-part-iii.html'>Not Good Enough To Sell Part III</a></li>
+</li>
 <hr />
 
 <div class='comments'>

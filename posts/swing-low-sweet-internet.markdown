@@ -14,6 +14,9 @@
 <em>This one goes out to my main man, RustMonster.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='its-a-web-comic-charlie-brown.html'>It's a Web Comic, Charlie Brown!</a></li>
+</li>
 <hr />
 
 <div class='comments'>

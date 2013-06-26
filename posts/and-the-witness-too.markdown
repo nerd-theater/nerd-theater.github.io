@@ -14,6 +14,9 @@
 <em>The bear knows too much...</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='the-comment-caper.html'>The Comment Caper</a></li>
+</li>
 <hr />
 
 <div class='comments'>

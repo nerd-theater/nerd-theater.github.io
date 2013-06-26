@@ -14,6 +14,11 @@
 <em>In case you're wondering: yeah, they're quite firm.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='gospel-of-mark.html'>Gospel of Mark</a></li>
+<li>&bull; <a href='gospel-of-mark-ii.html'>Gospel of Mark II</a></li>
+<li>&bull; <a href='what-would-jesus-do.html'>What Would Jesus Do?</a></li>
+</li>
 <hr />
 
 <div class='comments'>

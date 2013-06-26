@@ -14,6 +14,9 @@
 <em></em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='crack-team.html'>Crack Team</a></li>
+</li>
 <hr />
 
 <div class='comments'>

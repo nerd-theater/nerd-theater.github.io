@@ -14,6 +14,9 @@
 <em>Just wait till we ask Alex if he wants to try kicking the football...</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='can-do-attitude.html'>Can-Do Attitude</a></li>
+</li>
 <hr />
 
 <div class='comments'>

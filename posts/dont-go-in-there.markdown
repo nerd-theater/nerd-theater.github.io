@@ -14,6 +14,10 @@
 <em>Oooohhh, girl! I woulda never done it like that. I woulda runned like hell. Mmmmhmmm!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='where-the-watermelons-grow.html'>Where the Watermelons Grow</a></li>
+<li>&bull; <a href='soft-science.html'>Soft Science</a></li>
+</li>
 <hr />
 
 <div class='comments'>

@@ -14,3 +14,7 @@
 <em></em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='moses-the-rich-egyptian.html'>Moses The Rich Egyptian</a></li>
+<li>&bull; <a href='moses-and-the-mystery-of-the-old-mill.html'>Moses and the Mystery of the Old Mill</a></li>
+</li>

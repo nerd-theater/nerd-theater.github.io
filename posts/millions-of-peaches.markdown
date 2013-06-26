@@ -14,6 +14,9 @@
 <em>There's always Daisy or that fucked-up pink Yoshi-thing!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='requiem-for-a-plumber.html'>Requiem For A Plumber</a></li>
+</li>
 <hr />
 
 <div class='comments'>

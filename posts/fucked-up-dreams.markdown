@@ -14,6 +14,11 @@
 <em>After Chewbacca showed up wearing a silver-plated chastity belt, things started to get WERID.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='racial-harmony.html'>Racial Harmony</a></li>
+<li>&bull; <a href='clone-weddings.html'>Clone Weddings</a></li>
+<li>&bull; <a href='hardly-funny.html'>Hardly Funny</a></li>
+</li>
 <hr />
 
 <div class='comments'>

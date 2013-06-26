@@ -14,6 +14,9 @@
 <em>He's like the Rocketeer, except a bear. Plus he mauls people instead of saving them.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='ursa-major-trading-cards.html'>Ursa Major Trading Cards</a></li>
+</li>
 <hr />
 
 <div class='comments'>

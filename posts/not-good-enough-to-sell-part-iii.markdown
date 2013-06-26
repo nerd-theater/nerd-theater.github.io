@@ -14,6 +14,10 @@
 <em>Finally, we have closure!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='not-good-enough-to-sell-part-i.html'>Not Good Enough To Sell, Part I</a></li>
+<li>&bull; <a href='not-good-enough-to-sell-part-ii.html'>Not Good Enough To Sell, Part II</a></li>
+</li>
 <hr />
 
 <div class='comments'>

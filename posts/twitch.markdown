@@ -14,6 +14,10 @@
 <em>Ouch.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='the-comment-caper.html'>The Comment Caper</a></li>
+<li>&bull; <a href='good-behavior.html'>Good Behavior</a></li>
+</li>
 <hr />
 
 <div class='comments'>

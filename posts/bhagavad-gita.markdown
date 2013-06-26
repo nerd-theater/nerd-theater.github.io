@@ -14,6 +14,10 @@
 <em>Krishna is "a god-child, a prankster, a model lover, a divine hero and the Supreme Being." I can think of no better god to represent Alex.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='gospel-of-mark.html'>Gospel of Mark</a></li>
+<li>&bull; <a href='gospel-of-mark-ii.html'>Gospel of Mark II</a></li>
+</li>
 <hr />
 
 <div class='comments'>

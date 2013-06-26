@@ -14,6 +14,11 @@
 <em>He did it on purpose!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='and-the-witness-too.html'>And the Witness Too</a></li>
+<li>&bull; <a href='good-behavior.html'>Good Behavior</a></li>
+<li>&bull; <a href='twitch.html'>Twitch</a></li>
+</li>
 <hr />
 
 <div class='comments'>

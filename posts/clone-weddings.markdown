@@ -14,6 +14,11 @@
 <em>What fetish site would that honeymoon tape go on and how can I sign up?</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='racial-harmony.html'>Racial Harmony</a></li>
+<li>&bull; <a href='fucked-up-dreams.html'>Fucked Up Dreams</a></li>
+<li>&bull; <a href='hardly-funny.html'>Hardly Funny</a></li>
+</li>
 <hr />
 
 <div class='comments'>

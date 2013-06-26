@@ -14,6 +14,9 @@
 <em>These are redeemable for blowjobs in China and your mom's boudoir.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='jet-bear.html'>Jet Bear!</a></li>
+</li>
 <hr />
 
 <div class='comments'>

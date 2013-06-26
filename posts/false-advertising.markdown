@@ -14,6 +14,10 @@
 <em>I know what you're thinking: what about the Women's restroom, *wink* *wink*.  Nope, they're mostly just taking dumps in there.  Deal.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='false-advertising-part-ii.html'>False Advertising, Part II</a></li>
+<li>&bull; <a href='sloppy-joe.html'>Sloppy Joe</a></li>
+</li>
 <hr />
 
 <div class='comments'>

@@ -14,3 +14,7 @@
 <em></em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='moses-the-rich-egyptian.html'>Moses The Rich Egyptian</a></li>
+<li>&bull; <a href='moses-the-poor-stinking-hebrew.html'>Moses The Poor Stinking Hebrew</a></li>
+</li>

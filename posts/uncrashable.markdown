@@ -14,6 +14,9 @@
 <em>Faster than a debugger, more powerful than a segfault, able to leap pointers in a single bound!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='the-doctor-and-the-download.html'>The Doctor And The Download</a></li>
+</li>
 <hr />
 
 <div class='comments'>

@@ -14,6 +14,9 @@
 <em></em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='t-ray.html'>T-Ray</a></li>
+</li>
 <hr />
 
 <div class='comments'>

@@ -14,6 +14,9 @@
 <em>Yes, he's fucking a can of soup.</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='broken-toe.html'>Broken Toe</a></li>
+</li>
 <hr />
 
 <div class='comments'>

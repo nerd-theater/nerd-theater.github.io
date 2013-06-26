@@ -14,6 +14,10 @@
 <em>Make tonight a Manwich night!</em>
 
 <!-- TEASER_END -->
+<div class='related'><span>Related comics:</span><ul class='inline'>
+<li>&bull; <a href='false-advertising.html'>False Advertising</a></li>
+<li>&bull; <a href='false-advertising-part-ii.html'>False Advertising, Part II</a></li>
+</li>
 <hr />
 
 <div class='comments'>
