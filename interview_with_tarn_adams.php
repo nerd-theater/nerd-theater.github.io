@@ -1,0 +1,1 @@
+<head><meta http-equiv="refresh" content="0; url=pages/interview-with-tarn-adams.html"></head>
